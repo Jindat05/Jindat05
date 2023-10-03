@@ -27,5 +27,7 @@ Hey there! I'm Jindat Baradia, a passionate software developer eager to start co
 
 I'm always excited to connect with like-minded individuals who share a passion for open source, problem-solving, and technology. If you have an interesting project, idea, or just want to chat about tech, don't hesitate to reach out. Let's collaborate and make a difference together!
 
+[![An image of @jindat05's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jindat05)](https://holopin.io/@jindat05)
+
 Thank you for visiting my GitHub profile, and I look forward to connecting with you! 🚀
 
